@@ -5,7 +5,7 @@ I'm a Full-Stack Developer and AI/ML Engineer specializing in LLM orchestration,
 
 * 🔭 Currently engineering enterprise-grade multimodal RAG pipelines and developing a standalone **Sentient Ambient AI System**. 
 * 🌱 Continuously scaling and optimizing **Astra**, my LangGraph-powered multi-agent AI assistant platform.
-* **designing modular RAG retrieval pipelines, optimizing full-stack APIs, or how to successfully spearhead tech hackathons for 250+ participants!**
+* **Designing modular RAG retrieval pipelines, optimizing full-stack APIs, or how to successfully spearhead tech hackathons for 250+ participants!**
 * ⚡ Fun fact: When I'm taking a break from backend architecture, you can usually catch me jamming out to 80s/90s pop, Lo-fi, or Tamil/Malayalam tracks.
 
 ## 🛠️ Languages and Tools
