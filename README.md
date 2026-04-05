@@ -1,7 +1,6 @@
-# Hi there, I'm Cyril! 👋
-
+# Cyril Sabu George
 ## 👨‍💻 About Me
-I'm a Full-Stack Developer and AI/ML Engineer specializing in LLM orchestration, multimodal pipelines, and building production-grade intelligence systems.
+I'm a AI/ML Enthusiast specializing in LLM orchestration, multimodal pipelines, and building production-grade intelligence systems.
 
 * 🔭 Currently engineering enterprise-grade multimodal RAG pipelines and developing a standalone **Sentient Ambient AI System**. 
 * 🌱 Continuously scaling and optimizing **Astra**, my LangGraph-powered multi-agent AI assistant platform.
