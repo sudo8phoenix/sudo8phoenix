@@ -1,4 +1,4 @@
-# Hi I'm Cyril Sabu George
+# 🌌✨ Hi I'm Cyril Sabu George
 
 ### 👨‍💻 AI/ML Engineer | LLM Systems Builder | Full-Stack Developer
 
@@ -35,63 +35,54 @@
 
 ## 🧠 Domain Expertise
 
-```diff
-+ AI / ML & LLM Systems
-```
+✨ **AI / ML & LLM Systems**  
+▸ Multimodal & Hybrid **RAG Architectures**  
+▸ **LangGraph / LangChain** orchestration  
+▸ Ambient & Context-Aware AI Systems  
+▸ Computer Vision (YOLO)  
 
-* Multimodal & Hybrid **RAG Architectures**
-* **LangGraph / LangChain** orchestration
-* Ambient & Context-Aware AI Systems
-* Computer Vision (YOLO)
+---
 
-```diff
-+ Full-Stack Development
-```
+⚡ **Full-Stack Development**  
+▸ React, Tailwind, JS/TS  
+▸ FastAPI, Flask  
+▸ PostgreSQL, Redis, AWS  
 
-* Frontend: React, Tailwind, JS/TS
-* Backend: FastAPI, Flask
-* Infra: PostgreSQL, Redis, AWS
+---
 
-```diff
-+ Systems & Leadership
-```
-
-* Scalable architecture design
-* Multi-agent workflows
-* Hackathons & tech community leadership
+🚀 **Systems & Leadership**  
+▸ Scalable architecture design  
+▸ Multi-agent workflows  
+▸ Hackathons & tech community leadership  
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧠 Astra | AI Personal Assistant
-
-⚡ Multi-agent platform automating enterprise workflows
-⚡ Sub-1.5s real-time execution dashboards
+⚡ Multi-agent platform automating enterprise workflows  
+⚡ Sub-1.5s real-time execution dashboards  
 
 ---
 
 ### 🔍 Multimodal RAG Pipeline
-
-🎙️ Voice + Text + Retrieval
-🔎 Hybrid Search (Semantic + Keyword)
-🧩 Modular & configurable pipeline
+🎙️ Voice + Text + Retrieval  
+🔎 Hybrid Search (Semantic + Keyword)  
+🧩 Modular & configurable pipeline  
 
 ---
 
 ### 🥗 Fridge Vision
-
-📸 Image → Ingredient Detection (YOLO)
-🍳 Recipe Recommendation Engine
-⚡ Single-call intelligent workflow
+📸 Image → Ingredient Detection (YOLO)  
+🍳 Recipe Recommendation Engine  
+⚡ Single-call intelligent workflow  
 
 ---
 
 ### 🎬 Scalable Recommendation Engine
-
-📊 Handles **25M+ records**
-⚡ Similarity + KMeans hybrid model
-🚀 Multi-layer caching system
+📊 Handles **25M+ records**  
+⚡ Similarity + KMeans hybrid model  
+🚀 Multi-layer caching system  
 
 ---
 
