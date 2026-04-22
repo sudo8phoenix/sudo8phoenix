@@ -1,4 +1,4 @@
-# 🌌✨ Cyril Sabu George
+# Hi I'm Cyril Sabu George
 
 ### 👨‍💻 AI/ML Engineer | LLM Systems Builder | Full-Stack Developer
 
